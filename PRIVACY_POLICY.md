@@ -1,7 +1,7 @@
 # Privacy Policy for “Lend & Borrow”
 
 Effective date: 2025-01-01  
-Contact: lendnborrow@proton.me
+Contact: support@oppahansi.de
 
 1) Overview
 - “Lend & Borrow” is an offline-first app that runs entirely on-device.
@@ -57,4 +57,4 @@ See also: [README.md](README.md) and [LICENSE](LICENSE).
 - We may update this policy as needed. Material changes will be reflected in this file with an updated effective date.
 
 12) Contact
-- For questions: lendnborrow@proton.me
+- For questions: support@oppahansi.de
